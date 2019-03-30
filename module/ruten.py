@@ -1,9 +1,7 @@
 # -*- coding: UTF-8 -*-
 import net
-import requests
 import json
 from bs4 import BeautifulSoup
-import re
 
 class Ruten:
 	def __init__(self):

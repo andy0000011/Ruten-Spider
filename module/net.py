@@ -1,7 +1,5 @@
 # -*- coding: UTF-8 -*-
 import requests
-import json
-from bs4 import BeautifulSoup
 import re
 
 class Net:
